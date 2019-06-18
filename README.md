@@ -1,4 +1,8 @@
 # RL-Algorithms
+Resources used are listen in each ipynb file
+
+The ES + A2C shows early convergence and also more stability 
+over episodes.
 
 Implementating preliminary RL Algoirthms:
 1) DQN (https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
